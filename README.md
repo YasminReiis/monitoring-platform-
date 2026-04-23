@@ -18,6 +18,3 @@ Centralize logs, metrics, and monitoring for backend systems.
 OR
 - Prometheus (metrics)
 - Grafana (dashboard)
-
-## 🚀 Purpose
-Demonstrate production engineering knowledge (observability + monitoring).
